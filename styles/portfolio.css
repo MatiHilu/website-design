@@ -1,0 +1,1800 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 198rem;
+}.portfolio-Lif {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.portfolio-Lif .auto-group-y2gk-ABu {
+  width: 199rem;
+  height: 440rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .background-n6o {
+  width: 199rem;
+  height: 429.8rem;
+  position: absolute;
+  left: 0;
+  top: 10.2rem;
+  background-color: #11071f;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .gradient-Gnf {
+  width: 64.2rem;
+  height: 72rem;
+  position: absolute;
+  left: 85.8rem;
+  top: 258rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .gradient-Q8B {
+  width: 62.5rem;
+  height: 70rem;
+  position: absolute;
+  left: 73.9rem;
+  top: 102.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .gradient-jgF {
+  width: 62.5rem;
+  height: 70rem;
+  position: absolute;
+  left: 108.4rem;
+  top: 257.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .gradient-HBy {
+  width: 57.2rem;
+  height: 64.1rem;
+  position: absolute;
+  left: 27.4rem;
+  top: 316.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .gradient-czw {
+  width: 38.5rem;
+  height: 43.1rem;
+  position: absolute;
+  left: 38.5rem;
+  top: 22rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-ZQP {
+  width: 58.2878rem;
+  height: 34.1rem;
+  position: absolute;
+  left: 104.7rem;
+  top: 276.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-HLP {
+  width: 58.2878rem;
+  height: 34.1rem;
+  position: absolute;
+  left: 46rem;
+  top: 333rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .header-235 {
+  width: 198rem;
+  height: 11.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.6rem 2.2rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #190b2d;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .home-8ro {
+  width: 6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 111.4rem;
+  top: 4.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.26;
+  letter-spacing: 0.04rem;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .about-ngT {
+  width: 6.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 134.75rem;
+  top: 4.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.26;
+  letter-spacing: 0.04rem;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .lab-fVM {
+  width: 3.7rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 158.7rem;
+  top: 4.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.26;
+  letter-spacing: 0.04rem;
+  color: #ffffff;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .im-a-software-engineer-xzF {
+  width: 67.9rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 47.4rem;
+  top: 66.05rem;
+  display: flex;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .judges-a-book-by-its-cover-FiT {
+  width: 38.6rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 72.7rem;
+  top: 37.9181rem;
+  display: flex;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2654903309;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .judges-a-book-by-its-cover-FiT .judges-a-book-by-its-cover-FiT-sub-0 {
+}
+.portfolio-Lif .auto-group-y2gk-ABu .judges-a-book-by-its-cover-FiT .judges-a-book-by-its-cover-FiT-sub-1 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2654903309;
+  letter-spacing: 0.1rem;
+  color: #7127ba;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .judges-a-book-by-its-cover-FiT .judges-a-book-by-its-cover-FiT-sub-2 {
+}
+.portfolio-Lif .auto-group-y2gk-ABu .a-designer-who-B8F {
+  width: 14.2rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 72.65rem;
+  top: 35.1681rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.034rem;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .because-if-the-cover-does-not-impress-you-what-else-can-s15 {
+  width: 34.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 72.7rem;
+  top: 50.8681rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.022rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .a-self-taught-ui-ux-designer-functioning-in-the-industry-for-3-years-now-i-make-meaningful-and-delightful-digital-products-that-create-an-equilibrium-between-user-needs-and-business-goals-vk3 {
+  width: 89.1rem;
+  height: 12rem;
+  position: absolute;
+  left: 47.7rem;
+  top: 84.5rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.044rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .work-experience-MKZ {
+  width: 35.4rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 46.8rem;
+  top: 113.45rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .hello-i-am-ibrahim-memon-3y5 {
+  width: 24.3rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 70.8rem;
+  top: 20.7462rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 5.1052631579;
+  letter-spacing: -0.05rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .hello-i-am-ibrahim-memon-3y5 .hello-i-am-ibrahim-memon-3y5-sub-0 {
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 5.1052631579;
+  letter-spacing: -0.05rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .hello-i-am-ibrahim-memon-3y5 .hello-i-am-ibrahim-memon-3y5-sub-1 {
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 5.1052631579;
+  letter-spacing: -0.05rem;
+  color: #7127ba;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .arrow-5HV {
+  width: 7.8343rem;
+  height: 4.7818rem;
+  position: absolute;
+  left: 62.5156rem;
+  top: 25.903rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .ellipse-5-C7D {
+  width: 19.2727rem;
+  height: 7.3298rem;
+  position: absolute;
+  left: 87.5rem;
+  top: 43.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .contact-8mZ {
+  width: 10.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 45.8rem;
+  top: 390.45rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .im-currently-looking-to-join-a-cross-functional-team-that-values-improving-peoples-lives-through-accessible-design-or-have-a-project-in-mind-lets-connect-ibrhaimmemon930gmailcom-qfy {
+  width: 70.3rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 45.8rem;
+  top: 402.25rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.03rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .logo-Fzb {
+  width: 3.5rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 49.7rem;
+  top: 3.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .designation-amy {
+  width: 56.5rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 47.4rem;
+  top: 73.7038rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .designation-amy .currently-im-a-software-engineer-at-facebook-i7V {
+  width: 56.5rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.806640625;
+  letter-spacing: 0.042rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .designation-amy .currently-im-a-software-engineer-at-facebook-i7V .currently-im-a-software-engineer-at-facebook-i7V-sub-0 {
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.042rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .designation-amy .currently-im-a-software-engineer-at-facebook-i7V .currently-im-a-software-engineer-at-facebook-i7V-sub-1 {
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.042rem;
+  color: #1877f2;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .designation-amy .currently-im-a-software-engineer-at-facebook-i7V .currently-im-a-software-engineer-at-facebook-i7V-sub-2 {
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.042rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .designation-amy .image-8-D6B {
+  width: 2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 42.9rem;
+  top: 0.8038rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw {
+  width: 57rem;
+  height: 19.2676rem;
+  position: absolute;
+  left: 46.3rem;
+  top: 125.1rem;
+  box-shadow: 0.4rem 0.7rem 2.6rem rgba(0, 0, 0, 0.1199999973);
+  background: linear-gradient(290.49deg, #130328 106.77%, #250f42 158.32%, #38116d 200.94%, #261045 254.46%, #190634 283.21%);
+  border-radius: 1.5rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .mask-group-G4T {
+  width: 57rem;
+  height: 16.8061rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .cib-on-the-mobile-1Xq {
+  width: 22.8rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 4.6rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .take-your-client-onboard-seamlessly-by-our-amazing-tool-of-digital-onboard-process-KHd {
+  width: 21.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 8.1rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.3125;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .learn-more-P2b {
+  width: 11.9rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 11.2rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #683a92;
+  box-sizing: border-box;
+  background-color: #2b114f;
+  border-radius: 1rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .group-1-Rzs {
+  width: 12.1987rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 5rem;
+  top: 3.6rem;
+  display: flex;
+  align-items: center;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .group-1-Rzs .auto-group-my71-MNj {
+  margin-right: 0.1225rem;
+  width: 11.5929rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .group-1-Rzs .auto-group-my71-MNj .rectangle-HGP {
+  width: 11.5rem;
+  height: 11.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .group-1-Rzs .auto-group-my71-MNj .ellipse-1-R7h {
+  width: 11.3929rem;
+  height: 4.8085rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 6.2915rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .group-1-Rzs .auto-group-my71-MNj .ellipse-2-9Jb {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 0.3573rem;
+  top: 7.6743rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .group-1-Rzs .auto-group-my71-MNj .ellipse-4-skP {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 1.9454rem;
+  top: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .group-1-Rzs .auto-group-my71-MNj .ellipse-5-1rb {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 9.2987rem;
+  top: 9.9777rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-8iw .group-1-Rzs .ellipse-3-x19 {
+  margin-bottom: 0.1902rem;
+  width: 0.4834rem;
+  height: 0.4418rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .mask-group-fJs {
+  width: 58.2878rem;
+  height: 34.1rem;
+  position: absolute;
+  left: 104.7rem;
+  top: 276.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH {
+  width: 57rem;
+  height: 19.5676rem;
+  position: absolute;
+  left: 46.3rem;
+  top: 146.1rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .mask-group-inw {
+  width: 57rem;
+  height: 16.8061rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .rectangle-984-fy5 {
+  width: 57rem;
+  height: 19.2676rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  box-shadow: 0.4rem 0.7rem 2.6rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #2b114f;
+  border-radius: 1.5rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .rectangle-983-kzX {
+  width: 57rem;
+  height: 19.2676rem;
+  position: absolute;
+  left: 0;
+  top: 0.2962rem;
+  box-shadow: 0.4rem 0.7rem 2.6rem rgba(0, 0, 0, 0.1199999973);
+  background: linear-gradient(95.56deg, #130328 0.58%, #250f42 16.32%, #38116d 29.33%, #261045 45.66%, #190634 54.44%);
+  border-radius: 1.5rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .cib-on-the-mobile-2BM {
+  width: 22.8rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 20.2rem;
+  top: 4.9962rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .take-your-client-onboard-seamlessly-by-our-amazing-tool-of-digital-onboard-process-vnX {
+  width: 21.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 20.3rem;
+  top: 8.4962rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.3125;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .learn-more-cfM {
+  width: 11.9rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 20rem;
+  top: 11.5962rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #683a92;
+  box-sizing: border-box;
+  background-color: #2b114f;
+  border-radius: 1rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .group-1-USf {
+  width: 11.9988rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 3.9962rem;
+  display: flex;
+  align-items: center;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .group-1-USf .auto-group-pj2o-1Bh {
+  margin-right: 0.0154rem;
+  width: 11.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .group-1-USf .auto-group-pj2o-1Bh .rectangle-KiB {
+  width: 11rem;
+  height: 11rem;
+  position: absolute;
+  left: 0.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .group-1-USf .auto-group-pj2o-1Bh .ellipse-1-ry1 {
+  width: 11.3929rem;
+  height: 4.8085rem;
+  position: absolute;
+  left: 0;
+  top: 6.8915rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .group-1-USf .auto-group-pj2o-1Bh .ellipse-2-nrf {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 0.1573rem;
+  top: 8.2743rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .group-1-USf .auto-group-pj2o-1Bh .ellipse-4-vT5 {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 1.7454rem;
+  top: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .group-1-USf .auto-group-pj2o-1Bh .ellipse-5-TC7 {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 9.0988rem;
+  top: 10.5777rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-nuH .group-1-USf .ellipse-3-bJK {
+  margin-top: 0.8098rem;
+  width: 0.4834rem;
+  height: 0.4418rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 {
+  width: 57rem;
+  height: 19.5714rem;
+  position: absolute;
+  left: 105.5rem;
+  top: 145.8rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .mask-group-TbR {
+  width: 57rem;
+  height: 16.8061rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .rectangle-985-QmZ {
+  width: 57rem;
+  height: 19.2676rem;
+  position: absolute;
+  left: 0;
+  top: 0.3038rem;
+  box-shadow: 0.4rem 0.7rem 2.6rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #2b114f;
+  border-radius: 1.5rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .rectangle-983-XLP {
+  width: 57rem;
+  height: 19.2676rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  box-shadow: 0.4rem 0.7rem 2.6rem rgba(0, 0, 0, 0.1199999973);
+  background: linear-gradient(329.88deg, #130328 84.79%, #250f42 133.31%, #38116d 173.44%, #261045 223.84%, #190634 250.9%);
+  border-radius: 1.5rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .cib-on-the-mobile-oHu {
+  width: 22.8rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 4.5rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .take-your-client-onboard-seamlessly-by-our-amazing-tool-of-digital-onboard-process-ubq {
+  width: 21.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 8rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.3125;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .learn-more-PX1 {
+  width: 11.9rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 11.1rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #683a92;
+  box-sizing: border-box;
+  background-color: #2b114f;
+  border-radius: 1rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .group-1-ehq {
+  width: 11.3929rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 6.1rem;
+  top: 4.9rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .group-1-ehq .rectangle-yVD {
+  width: 8.8rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .group-1-ehq .ellipse-1-utf {
+  width: 11.3929rem;
+  height: 4.8085rem;
+  position: absolute;
+  left: 0;
+  top: 4.8915rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .group-1-ehq .ellipse-2-FxX {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 0.1573rem;
+  top: 6.2743rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .group-1-ehq .ellipse-3-oDM {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 10.7rem;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .group-1-ehq .ellipse-4-jco {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-L11 .group-1-ehq .ellipse-5-syu {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 9.0988rem;
+  top: 8.5777rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .card-dCP {
+  width: 66.9rem;
+  height: 16.5rem;
+  position: absolute;
+  left: 46rem;
+  top: 288.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.4rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-Zbq {
+  box-sizing: border-box;
+  padding-bottom: 0.3875rem;
+  width: 61.7rem;
+  height: 33.3rem;
+  position: absolute;
+  left: 46.2rem;
+  top: 278.6rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-Zbq .auto-group-ym4o-sMd {
+  margin-bottom: 5.6rem;
+  width: 28.8rem;
+  height: 7rem;
+  position: relative;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-Zbq .auto-group-ym4o-sMd .example-project-R8F {
+  width: 28.8rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 1.9rem;
+  display: flex;
+  font-size: 3.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.068rem;
+  color: #ccd6f6;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-Zbq .auto-group-ym4o-sMd .featured-project-v51 {
+  width: 14.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.032rem;
+  color: #9757d3;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-Zbq .a-web-app-for-visualizing-personalized-spotify-data-view-your-top-artists-top-tracks-recently-played-tracks-and-detailed-audio-information-about-each-track-create-and-save-new-playlists-of-recommended-tracks-based-on-your-existing-playlists-and-more-dVD {
+  margin: 0rem 0rem 6.958rem 3.2rem;
+  max-width: 58.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ccd6f6;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-Zbq .auto-group-pwyb-q5V {
+  margin: 0rem 51.687rem 0rem 2.758rem;
+  width: calc(100% - 54.4458rem);
+  display: flex;
+  align-items: center;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-Zbq .auto-group-pwyb-q5V .icon-park-solid-click-Z1V {
+  margin: 0rem 2.346rem 0.1rem 0rem;
+  width: 2.4542rem;
+  height: 2.4542rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-Zbq .auto-group-pwyb-q5V .auto-group-z4zh-4yq {
+  margin-top: 0.1rem;
+  width: 2.4542rem;
+  height: 2.4542rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-CaF {
+  box-sizing: border-box;
+  padding-bottom: 0.3875rem;
+  width: 67rem;
+  height: 32.9rem;
+  position: absolute;
+  left: 96.1rem;
+  top: 333.7rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-CaF .auto-group-7tod-7BR {
+  margin-bottom: 2.6rem;
+  width: 28.8rem;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-CaF .auto-group-7tod-7BR .example-project-Emq {
+  width: 28.8rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 0;
+  top: 1.9rem;
+  display: flex;
+  font-size: 3.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.068rem;
+  color: #ccd6f6;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-CaF .auto-group-7tod-7BR .featured-project-YGj {
+  width: 14.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 0;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.032rem;
+  color: #9757d3;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-CaF .auto-group-cfph-E9Z {
+  margin: 0rem 0.1rem 3.858rem 0rem;
+  box-sizing: border-box;
+  padding: 2.6rem 5rem 3.1rem 3.4rem;
+  width: 66.9rem;
+  height: 16.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/card.png');
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-CaF .auto-group-cfph-E9Z .a-web-app-for-visualizing-personalized-spotify-data-view-your-top-artists-top-tracks-recently-played-tracks-and-detailed-audio-information-about-each-track-create-and-save-new-playlists-of-recommended-tracks-based-on-your-existing-playlists-and-more-371 {
+  max-width: 58.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ccd6f6;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-CaF .auto-group-s1nt-3WK {
+  margin: 0rem 4.687rem 0rem 55.058rem;
+  width: calc(100% - 59.7458rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-CaF .auto-group-s1nt-3WK .icon-park-solid-click-ZzT {
+  margin: 0rem 2.346rem 0.1rem 0rem;
+  width: 2.4542rem;
+  height: 2.4542rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .portfolio-text-CaF .auto-group-s1nt-3WK .auto-group-2zpy-HfZ {
+  margin-top: 0.1rem;
+  width: 2.4542rem;
+  height: 2.4542rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 {
+  width: 89.5rem;
+  height: 75.4rem;
+  position: absolute;
+  left: 59.8rem;
+  top: 181.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-fmdm-8w5 {
+  margin: 0rem 10.9rem 3.35rem 12.3rem;
+  width: calc(100% - 23.2rem);
+  height: 6.35rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-fmdm-8w5 .im-currently-looking-to-join-a-cross-functional-team-that-values-improving-peoples-lives-through-accessible-design-GGb {
+  width: 66.3rem;
+  height: 6.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2916666667;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-fmdm-8w5 .im-currently-looking-to-join-a-cross-functional-team-that-values-improving-peoples-lives-through-accessible-design-GGb .im-currently-looking-to-join-a-cross-functional-team-that-values-improving-peoples-lives-through-accessible-design-GGb-sub-0 {
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-fmdm-8w5 .im-currently-looking-to-join-a-cross-functional-team-that-values-improving-peoples-lives-through-accessible-design-GGb .im-currently-looking-to-join-a-cross-functional-team-that-values-improving-peoples-lives-through-accessible-design-GGb-sub-1 {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.8235294118;
+  letter-spacing: 0.048rem;
+  color: #ffffff;
+  font-family: Preahvihear, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-fmdm-8w5 .cross-functional-6Q3 {
+  width: 22.1rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 37.6rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2916666667;
+  letter-spacing: 0.048rem;
+  color: #a361ff;
+  font-family: Preahvihear, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm {
+  width: 100%;
+  height: 65.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .vector-25-HzK {
+  width: 12.2427rem;
+  height: 27.75rem;
+  position: absolute;
+  left: 46.1573rem;
+  top: 8.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .vector-26-qF9 {
+  width: 7.0489rem;
+  height: 27rem;
+  position: absolute;
+  left: 45.2011rem;
+  top: 10.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .vector-27-ZB9 {
+  width: 3.45rem;
+  height: 29.15rem;
+  position: absolute;
+  left: 43.65rem;
+  top: 10.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .vector-28-Hcw {
+  width: 11.7949rem;
+  height: 30.05rem;
+  position: absolute;
+  left: 30.35rem;
+  top: 9.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .vector-29-DmV {
+  width: 6.611rem;
+  height: 31rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 9.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .vector-30-mHD {
+  width: 2.1rem;
+  height: 31.3rem;
+  position: absolute;
+  left: 41.4rem;
+  top: 9.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .ellipse-6-hwZ {
+  width: 54.2rem;
+  height: 33rem;
+  position: absolute;
+  left: 18.1rem;
+  top: 32.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd {
+  width: 37.4rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-wvlk-oWj {
+  margin-right: 1.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.1rem 0.8rem 1.2rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-wvlk-oWj .rectangle-1-83D {
+  width: 2.1rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-i4hr-SJo {
+  margin-right: 1.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.6rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-i4hr-SJo .rectangle-2-y3q {
+  width: 3.2rem;
+  height: 2.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-21mm-hVd {
+  margin-right: 1.4rem;
+  box-sizing: border-box;
+  padding: 0.7rem 0.6rem 0.6rem 0.6rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-21mm-hVd .rectangle-3-2Xu {
+  width: 3.2rem;
+  height: 3.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-daef-xgT {
+  margin-right: 0.8rem;
+  box-sizing: border-box;
+  padding: 1.2rem 0.6rem 1.1rem 0.6rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-daef-xgT .rectangle-4-5m5 {
+  width: 3.2rem;
+  height: 2.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-7wpk-1ud {
+  margin-right: 1.1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.9rem 1.1rem 0.9rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-7wpk-1ud .rectangle-8-Yef {
+  width: 2.6rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-mrnp-58o {
+  margin-right: 1.1rem;
+  box-sizing: border-box;
+  padding: 1rem 0.9rem 0.9rem 0.9rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-mrnp-58o .rectangle-6-1YF {
+  width: 2.6rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-najp-LqR {
+  box-sizing: border-box;
+  padding: 1rem 0.9rem 0.9rem 0.9rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-fsn3-P3h .auto-group-najp-LqR .rectangle-7-tM9 {
+  width: 2.6rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD {
+  margin: 0rem 2.1rem 0rem 2.8rem;
+  width: calc(100% - 4.9rem);
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-ovjs-wKR {
+  margin-right: 1.6rem;
+  box-sizing: border-box;
+  padding: 1rem 0.9rem 0.9rem 0.9rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-ovjs-wKR .rectangle-5-sTy {
+  width: 2.6rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-rf39-DGw {
+  margin-right: 0.8rem;
+  box-sizing: border-box;
+  padding: 1.4rem 0.6rem 1.5rem 0.5rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-rf39-DGw .rectangle-9-YKD {
+  width: 3.3rem;
+  height: 1.5rem;
+  position: relative;
+  background-size: 275.965% 346.667%;
+  background-position: -2.8534rem -1.8rem;
+  background-image: url('../assets/rectangle-9.png');
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-tpv3-DRM {
+  margin-right: 1.1rem;
+  box-sizing: border-box;
+  padding: 0.9rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-tpv3-DRM .rectangle-10-ZVD {
+  width: 2.6rem;
+  height: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-cwwz-5iT {
+  margin-right: 1.5rem;
+  box-sizing: border-box;
+  padding: 1rem 0.9rem 0.9rem 0.9rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-cwwz-5iT .rectangle-11-ciP {
+  width: 2.6rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-kudv-9yD {
+  margin-right: 1.1rem;
+  box-sizing: border-box;
+  padding: 1.7rem 0.2rem 1.6rem 0.3rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-kudv-9yD .rectangle-12-6Nf {
+  width: 3.9rem;
+  height: 1.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-luao-EUs {
+  box-sizing: border-box;
+  padding: 1.7rem 0.2rem 1.8rem 0.5rem;
+  height: 100%;
+  background-color: #251c31;
+  border-radius: 2.2rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1899-3Vd .auto-group-qd6t-DuD .auto-group-luao-EUs .rectangle-13-AdR {
+  width: 3.7rem;
+  height: 0.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .ellipse-20-Vvb {
+  width: 18rem;
+  height: 18rem;
+  position: absolute;
+  left: 35rem;
+  top: 35.1rem;
+  background: linear-gradient(180deg, rgba(48, 16, 128, 0.6000000238) -0%, rgba(120, 64, 173, 0.3600000143) 100%);
+  border-radius: 9rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1897-NzP {
+  width: 7.6144rem;
+  height: 9rem;
+  position: absolute;
+  left: 40.2364rem;
+  top: 39.6818rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .ellipse-21-iHZ {
+  width: 88.1rem;
+  height: 26.9rem;
+  position: absolute;
+  left: 0;
+  top: 36rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .ellipse-22-FoH {
+  width: 76.4rem;
+  height: 26.9rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 36rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .ellipse-23-aqZ {
+  width: 69.5rem;
+  height: 26.9rem;
+  position: absolute;
+  left: 10.8rem;
+  top: 36rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1907-XVu {
+  box-sizing: border-box;
+  padding: 9.1rem 0.6rem 2rem 0.5rem;
+  width: 30.6rem;
+  height: 27.5rem;
+  position: absolute;
+  left: 29.2rem;
+  top: 28.8rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-24.png');
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1907-XVu .ellipse-25-dYw {
+  width: 29.5rem;
+  height: 16.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-yMu {
+  width: 2.0093rem;
+  height: 2.0867rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 43.8313rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .vector-7U7 {
+  width: 1.3rem;
+  height: 1.516rem;
+  position: absolute;
+  left: 77.1rem;
+  top: 40.7991rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .vector-T2B {
+  width: 1.6rem;
+  height: 2.2157rem;
+  position: absolute;
+  left: 87.9rem;
+  top: 49.0791rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-CEf {
+  width: 1.1rem;
+  height: 1.9242rem;
+  position: absolute;
+  left: 76.6rem;
+  top: 57.8254rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1900-Xnj {
+  width: 1.3591rem;
+  height: 1.5453rem;
+  position: absolute;
+  left: 82.6rem;
+  top: 51.0615rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1901-4Gs {
+  width: 2.0312rem;
+  height: 1.1491rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 41.5181rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .vector-zgK {
+  width: 1.4rem;
+  height: 1.7493rem;
+  position: absolute;
+  left: 12rem;
+  top: 48.0295rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1905-93R {
+  width: 1.3rem;
+  height: 2.0332rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 54.8976rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1902-UrP {
+  width: 1.2rem;
+  height: 1.4736rem;
+  position: absolute;
+  left: 18.7rem;
+  top: 38.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1903-dDV {
+  width: 1.2574rem;
+  height: 1.4946rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 42.4318rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .group-1909-cC3 .auto-group-n1yo-nXm .group-1904-m4o {
+  width: 2.1714rem;
+  height: 1.8659rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 55.843rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .social-icons-5rB {
+  width: 11.0001rem;
+  height: 1.8272rem;
+  position: absolute;
+  left: 45.8rem;
+  top: 416.2rem;
+  display: flex;
+  column-gap: 2.7773rem;
+  align-items: center;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .social-icons-5rB .vector-onB {
+  margin-bottom: 0.0001rem;
+  width: 1.8272rem;
+  height: 1.8272rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .social-icons-5rB .vector-9b9 {
+  margin-bottom: 0.0001rem;
+  width: 1.8272rem;
+  height: 1.8272rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .social-icons-5rB .vector-tYj {
+  width: 1.7911rem;
+  height: 1.8272rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .me-3Rd {
+  box-sizing: border-box;
+  padding: 0.572rem 4.5rem 0.572rem 4.8rem;
+  width: 25.8rem;
+  height: 25.9rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 30.5962rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-3-RZD.png');
+}
+.portfolio-Lif .auto-group-y2gk-ABu .me-3Rd .image-1-xHh {
+  width: 16.5rem;
+  height: 22.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j {
+  width: 57rem;
+  height: 19.2676rem;
+  position: absolute;
+  left: 105.3rem;
+  top: 125.1rem;
+  box-shadow: 0.4rem 0.7rem 2.6rem rgba(0, 0, 0, 0.1199999973);
+  background: linear-gradient(95.56deg, #130328 0.58%, #250f42 16.32%, #38116d 29.33%, #261045 45.66%, #190634 54.44%);
+  border-radius: 1.5rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .mask-group-aK5 {
+  width: 57rem;
+  height: 16.8061rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .cib-on-the-mobile-VB9 {
+  width: 22.8rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 4.5962rem;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .take-your-client-onboard-seamlessly-by-our-amazing-tool-of-digital-onboard-process-NVq {
+  width: 21.4rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 8.0962rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1.3125;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .learn-more-eTM {
+  width: 11.9rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 19.3rem;
+  top: 11.1962rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #683a92;
+  box-sizing: border-box;
+  background-color: #2b114f;
+  border-radius: 1rem;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .group-1-5oZ {
+  width: 11.9987rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 4.8962rem;
+  display: flex;
+  align-items: center;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .group-1-5oZ .auto-group-yxbm-1SK {
+  margin-right: 0.1224rem;
+  width: 11.3929rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .group-1-5oZ .auto-group-yxbm-1SK .rectangle-wKy {
+  width: 9.2rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .group-1-5oZ .auto-group-yxbm-1SK .ellipse-1-5BH {
+  width: 11.3929rem;
+  height: 4.8085rem;
+  position: absolute;
+  left: 0;
+  top: 4.9915rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .group-1-5oZ .auto-group-yxbm-1SK .ellipse-2-QjM {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 0.1573rem;
+  top: 6.3743rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .group-1-5oZ .auto-group-yxbm-1SK .ellipse-4-wzB {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 1.7454rem;
+  top: 0.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .group-1-5oZ .auto-group-yxbm-1SK .ellipse-5-gwm {
+  width: 0.4834rem;
+  height: 0.4418rem;
+  position: absolute;
+  left: 9.0988rem;
+  top: 8.6777rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.portfolio-Lif .auto-group-y2gk-ABu .experience-V2j .group-1-5oZ .ellipse-3-RPZ {
+  margin-bottom: 1.0902rem;
+  width: 0.4834rem;
+  height: 0.4418rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.portfolio-Lif .webhr-logo-vectorized-sFZ {
+  margin-right: 950.4rem;
+  width: 409.6rem;
+  height: 141.9rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-sucs-CYj {
+  margin: 30.1rem 542.05rem 0rem 0rem;
+  width: 94.6rem;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-sucs-CYj .im-a-software-engineer-8hH {
+  margin-bottom: 26.15rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: Poor Story, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-sucs-CYj .im-a-software-engineer-e9q {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.1rem;
+  color: #000000;
+  font-family: PoetsenOne, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.portfolio-Lif .auto-group-j5it-9cP {
+  margin: 106.6rem 315.7rem 0rem 0rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-j5it-9cP .developed-webhr-landing-page-which-is-utilized-in-25000-companies-tK5 {
+  margin-bottom: 106.55rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.044rem;
+  color: #000000;
+  font-family: Preahvihear, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.portfolio-Lif .auto-group-j5it-9cP .linkedin-behance-dribbble-instagram-logo-ybR {
+  margin-right: 41.2rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.805;
+  letter-spacing: 0.08rem;
+  color: #000000;
+  font-family: Preahvihear, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
